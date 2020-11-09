@@ -1,0 +1,30 @@
+URL:http://netmining.com/wp-content/uploads/2015/09/Netmining-Marketing-Big-Book.pdf
+Description:BIG BOOK OF DIGITAL MARKETING
+URL:http://wordpress.com
+Description:WordPress is a platform to create a free website or to build free blog
+URL:http://www.blogger.com
+Description:BLOGGER
+URL:http://www.wix.com
+Description:WIX
+URL:https://academy.hubspot.com
+Description:HUBSPOT Academy
+URL:https://adwords.google.com/intl/en_pk/home/
+Description:GOOGLE ADWORDS
+URL:https://buffer.com
+Description:Buffer is an intuitive social media management platform
+URL:https://learndigital.withgoogle.com/digitalgarage/certification
+Description:GOOGLE CERTIFICATIONS
+URL:https://oppmax.com/blog/infographic-11-common-digital-marketing-faqs-2/
+Description:Digital marketing FAQs online Links
+URL:https://www.americansforthearts.org/sites/default/files/Netmarks-2016-Guide-to-Digital-Marketing.pdf
+Description:Guide to Digital Marketing
+URL:https://www.facebook.com/business/products/ads
+Description:Advertising on Facebook
+URL:https://www.google.com/adsense/signup
+Description:GOOGLE ADSENSE
+URL:https://www.hubspot.com
+Description:HubSpot is an inbound marketing and sales platform
+URL:https://www.lyfemarketing.com/blog/wp-content/uploads/2017/12/Digital-Marketing-Strategy-eBook.pdf
+Description:DIGITAL MARKETING STRATEGY
+URL:https://zenmedia.com/60-common-questions-digital-marketing-answered/
+Description:Digital marketing FAQs online Links
